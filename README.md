@@ -1,1 +1,1 @@
-# Christian-Joseph This project entailes a movie reccomendation engine using python machine learning techniques. The dataset is the top 1000 movies from imdb, and includes data categories such as release year, runtime, and imdb rating. The recommendation engine uses concepts such as feature engineering, along with cross-validation to ensure optimum performance of the engine. 
+# My name is Christian Joseph, and I am a data scientist enrolled at Rutgers University. I am currently working with predictive modeling, data engineering, and sql projects.
