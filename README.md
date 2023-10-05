@@ -1,1 +1,1 @@
-# My name is Christian Joseph, and I am a data scientist enrolled at Rutgers University. I am currently working with predictive modeling, data engineering, and sql projects.
+# My name is Christian Joseph, and I am a data scientist enrolled at Rutgers University. I am currently working with predictive modeling, data engineering, and sql projects. The above projects describe python, sql, and tableau projects completed.
