@@ -47,3 +47,11 @@ SELECT
     COUNT(*) AS Count
 FROM students data
 GROUP BY Class;
+SELECT *
+FROM tiktok.students
+INNER JOIN courses ON students.student_id = courses.student_id;
+
+-- Example 2: LEFT JOIN
+SELECT *
+FROM tiktok.students
+LEFT JOIN courses ON students.student_id = courses.student_id;
