@@ -1,42 +1,63 @@
-<h1 align="center">Hi 👋, I'm Christian Joseph</h1>
-<h3 align="center">A passionate data scientist majoring in statistics and CS @ Rutgers University</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=550&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+<br>
 
-- 🔭 I’m currently working on [NBA Prediction Model](https://github.com/cj2k7/Christian-Joseph/blob/main/NBA%20Prediction.ipynb)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> Hi, I'm Christian Joseph!
 
-- 🌱 I’m currently learning **Theory of Probability, and Experimental Design**
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/christian-joseph-320a63225)](https://linkedin.com/in/christian-joseph-320a63225)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@christianjoseph091)
 
-- 👯 I’ve also worked on [Movie Recommender Engine](https://github.com/cj2k7/Christian-Joseph/blob/main/Movie%20Recommender.ipynb)
+:school: Majoring in Statistics and Computer Science at Rutgers University</br>
+:bar_chart: Passionate Data Scientist with internship experience at SAIC</br>
+:computer: Skilled in Python, R, SQL, and Power BI</br>
+:trophy: Working on NBA Prediction Model and have developed a Movie Recommender Engine</br>
+:house_with_garden: Future project: Real Estate House Price Prediction Model</br>
+:mailbox: How to reach me: <a href="mailto:christianjoseph091@gmail.com">christianjoseph091@gmail.com</a>
 
-- 🤝 My future project: [Real Estate House Price Prediction Model](https://github.com/cj2k7/Christian-Joseph/blob/main/Real%20Estate.ipynb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj2k7&theme=discord_old_blurple&layout=compact&hide=html,jupyter%20notebook,css,shell&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=cj2k7&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7)
 
-- 📫 How to reach me: **christianjoseph091@gmail.com**
+## [Top repositories](https://github.com/cj2k7?tab=repositories)
 
-<h3 align="left">Professional Experience:</h3>
-<ul>
-  <li><strong>Data Science Intern at SAIC (June 2023 - August 2023):</strong> Leveraged SQL, Python, and Power BI for entity resolution and data visualization, enhancing company database management.</li>
-  <li><strong>Data Analyst Intern at SAIC (June 2022 - August 2022):</strong> Developed Power BI reports, collaborated on data visualization projects, and achieved Power BI certification.</li>
-</ul>
+[![NBA Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=cj2k7&repo=NBA-Prediction-Model&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7/NBA-Prediction-Model)
+[![Movie Recommender Engine](https://github-readme-stats.vercel.app/api/pin/?username=cj2k7&repo=Movie-Recommender-Engine&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7/Movie-Recommender-Engine)
+[![Real Estate Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=cj2k7&repo=Real-Estate-Prediction-Model&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7/Real-Estate-Prediction-Model)
 
-<h3 align="left">Education:</h3>
-<p>B.S. in Statistics with a minor in Computer Science from Rutgers University, New Brunswick, NJ (Expected May 2024). GPA: 3.5. Completed courses in Statistics, Calculus, Applied Statistical Learning, Intro to Data Science, and Regression Methods.</p>
+## Languages and Tools:
 
-<h3 align="left">Key Skills:</h3>
-<ul>
-  <li>Proficient in Python, R, SQL, Java, and C++.</li>
-  <li>Experienced in data mining, manipulation, and predictive modeling.</li>
-  <li>Skilled in machine learning with Scikit-Learn and data visualization techniques.</li>
-  <li>Knowledgeable in NLP using Jaro-Winkler and Levenshtein algorithms.</li>
-</ul>
+<div>
+  <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://cdn.worldvectorlogo.com/logos/power-bi.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">&nbsp;&nbsp;&nbsp;
+  <img width=40px src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">&nbsp;&nbsp;&nbsp;
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/christian-joseph-320a63225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-joseph-320a63225" height="30" width="40" /></a>
-</p>
+## Professional Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> ... </p> <!-- Your existing languages and tools icons here -->
+- **SAIC**, Data Science Intern (June 2023 - August 2023): Worked with the data management team to perform entity resolution, automated data matching using Python and SQL, and built Power BI reports for visualizing work boards.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj2k7&show_icons=true&locale=en&layout=compact" alt="cj2k7" /></p>
+- **SAIC**, Data Analyst Intern (June 2022 - August 2022): Developed multiple Power BI reports for different teams and gained Power BI certification.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cj2k7&show_icons=true&locale=en" alt="cj2k7" /></p>
+## Education
+
+- **B.S. in Statistics with a minor in Computer Science**, Rutgers University, New Brunswick, NJ (September 2020 - May 2024)
+
+## 📕 Latest Projects
+
+- [NBA Prediction Model](https://github.com/cj2k7/NBA-Prediction-Model): A project aimed at predicting NBA game outcomes using statistical models.
+- [Movie Recommender Engine](https://github.com/cj2k7/Movie-Recommender-Engine): Developed an engine that recommends movies based on user preferences.
+- [Real Estate Price Prediction Model](https://github.com/cj2k7/Real-Estate-Prediction-Model): Future project aimed at predicting real estate prices using machine learning.
+
+Feel free to reach out to me at <a href="mailto:christianjoseph091@gmail.com">christianjoseph091@gmail.com</a> for any queries or collaboration.
+
+
+
 
