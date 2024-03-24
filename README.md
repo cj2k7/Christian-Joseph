@@ -16,11 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj2k7&theme=discord_old_blurple&layout=compact&hide=html,jupyter%20notebook,css,shell&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=cj2k7&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7)
 
-## [Top repositories](https://github.com/cj2k7?tab=repositories)
 
-[![NBA Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=cj2k7&repo=NBA-Prediction-Model&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7/NBA-Prediction-Model)
-[![Movie Recommender Engine](https://github-readme-stats.vercel.app/api/pin/?username=cj2k7&repo=Movie-Recommender-Engine&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7/Movie-Recommender-Engine)
-[![Real Estate Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=cj2k7&repo=Real-Estate-Prediction-Model&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7/Real-Estate-Prediction-Model)
 
 ## Languages and Tools:
 
