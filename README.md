@@ -4,7 +4,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> Hi, I'm Christian Joseph!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://linkedin.com/in/christian-joseph-320a63225)](https://linkedin.com/in/christian-joseph-320a63225)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@christianjoseph091)
+[![Personal Website](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://christianjoseph.godaddysites.com/)
 
 :school: Majoring in Statistics and Computer Science at Rutgers University</br>
 :bar_chart: Passionate Data Scientist with internship experience at SAIC</br>
