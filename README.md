@@ -13,7 +13,7 @@
 :house_with_garden: Future project: Real Estate House Price Prediction Model</br>
 :mailbox: How to reach me: <a href="mailto:christianjoseph091@gmail.com">christianjoseph091@gmail.com</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj2k7&theme=discord_old_blurple&layout=compact&hide=html,jupyter%20notebook,css,shell&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=cj2k7&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/cj2k7)
 
 
